@@ -9,3 +9,7 @@ NPM: 2413020015
 - Git 
 - GitHub
 - Visual Studio Code
+
+## Daftar File
+- README.md
+- perkenalan.md
